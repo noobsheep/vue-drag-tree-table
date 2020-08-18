@@ -1,7 +1,7 @@
 # vue drag tree table
 
 IE10+/Chrome/firefox
-
+## 整点活
 ## 请更新到```2.0.8```及以上版本 [在线DEMO](https://mofazhuan.com/vue-drag-tree-table-demo#/)
 > 基于vue实现的可以拖拽排序的树形表格  
 
